@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai4", "Bai4\Bai4.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai6", "Bai6\Bai6.csproj", "{BC36452C-4ADF-4B07-9F57-EB1B480D81E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5", "Bai5\Bai5.csproj", "{BE9D7C26-2EF5-4E08-8989-DBEE3DBC3357}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai5", "Bai5\Bai5.csproj", "{BE9D7C26-2EF5-4E08-8989-DBEE3DBC3357}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu", "Menu\Menu.csproj", "{18A9C9FC-19E5-4401-B9C0-9223C2981CDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Menu", "Menu\Menu.csproj", "{18A9C9FC-19E5-4401-B9C0-9223C2981CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cau1", "Cau1\Cau1.csproj", "{7057ED73-7305-4809-9964-16C175D441BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{18A9C9FC-19E5-4401-B9C0-9223C2981CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18A9C9FC-19E5-4401-B9C0-9223C2981CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18A9C9FC-19E5-4401-B9C0-9223C2981CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7057ED73-7305-4809-9964-16C175D441BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7057ED73-7305-4809-9964-16C175D441BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7057ED73-7305-4809-9964-16C175D441BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7057ED73-7305-4809-9964-16C175D441BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
