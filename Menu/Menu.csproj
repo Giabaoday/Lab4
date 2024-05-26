@@ -12,6 +12,9 @@
     <ProjectReference Include="..\Bai4\Bai4.csproj" />
     <ProjectReference Include="..\Bai5\Bai5.csproj" />
     <ProjectReference Include="..\Bai6\Bai6.csproj" />
+    <ProjectReference Include="..\Cau1\Cau1.csproj" />
+    <ProjectReference Include="..\Cau2\Cau2.csproj" />
+    <ProjectReference Include="..\Cau3\Cau3.csproj" />
   </ItemGroup>
 
 </Project>

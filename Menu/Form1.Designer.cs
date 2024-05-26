@@ -55,6 +55,7 @@
             button1.TabIndex = 1;
             button1.Text = "Bài 1";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -74,6 +75,7 @@
             button3.TabIndex = 1;
             button3.Text = "Bài 2";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button4
             // 
@@ -93,6 +95,7 @@
             button5.TabIndex = 1;
             button5.Text = "Bài 3";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button6
             // 
